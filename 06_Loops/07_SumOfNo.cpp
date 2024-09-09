@@ -1,0 +1,20 @@
+// Write a C++ program that calculates the sum of the first n natural numbers, where n is a positive integer entered by the user.
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n, sum = 0;
+
+    cout << "Enter a positive integer: ";
+    cin >> n;
+
+    for (int i = 1; i <= n; i++) {
+        sum += i;
+    }
+
+    cout << "The sum of the first " << n << " natural numbers is " << sum << endl;
+
+    return 0;
+}
