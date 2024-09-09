@@ -4,14 +4,14 @@
 /* Arithmetic Operators
 Arithmetic operators are used to perform common mathematical operations. */
 
-// Operator	     Name	            Description	                              Example	
-// +	    Addition	        Adds together two values                      x + y	
-// -	    Subtraction	     Subtracts one value from another	              x - y	
-// *    	Multiplication      	Multiplies two values	                  x * y	
-// /	    Division	       Divides one value by another	                  x / y	
-// %	    Modulus	         Returns the division remainder	                  x % y	
-// ++	    Increment	   Increases the value of a variable by 1       	   ++x	
-// --	   Decrement	   Decreases the value of a variable by 1             --x
+// Operator	   Name	            Description	                                 Example	
+// +	     Addition	         Adds together two values                         x + y	
+// -	    Subtraction	      Subtracts one value from another	                x - y	
+// *    	Multiplication      	Multiplies two values	                        x * y	
+// /	    Division	        Divides one value by another	                    x / y	
+// %	    Modulus	          Returns the division remainder	                  x % y	
+// ++	    Increment	    Increases the value of a variable by 1       	         ++x	
+// --	   Decrement	    Decreases the value of a variable by 1                 --x
 
 
 // Assignment Operators
@@ -23,12 +23,12 @@ Arithmetic operators are used to perform common mathematical operations. */
 //   -=           	x -= 3	                        x = x - 3	
 //   *=           	x *= 3	                        x = x * 3	
 //   /=	            x /= 3	                        x = x / 3	
-//   %=            	x %= 3                       	x = x % 3	
-//   &=           	x &= 3                       	x = x & 3	
+//   %=            	x %= 3                         	x = x % 3	
+//   &=           	x &= 3                        	x = x & 3	
 //   |=             x |= 3                          x = x | 3	
-//   ^=	            x ^= 3                       	x = x ^ 3	
+//   ^=	            x ^= 3                        	x = x ^ 3	
 //   >>=          	x >>= 3	                        x = x >> 3	
-//  <<=          	x <<= 3                     	x = x << 3
+//  <<=           	x <<= 3                       	x = x << 3
 
 
 // Comparison Operators
@@ -36,12 +36,12 @@ Arithmetic operators are used to perform common mathematical operations. */
 // This is important in programming, because it helps us to find answers and make decisions.
 
 //Operator	          Name	                                 Example	
-//  ==            	Equal to	                              x == y	
-//  !=	            Not equal	                              x != y	
-//  >	          Greater than	                              x > y	
-//  <	           Less than	                              x < y	
-//  >=	     Greater than or equal to	                      x >= y	
-//  <=	      Less than or equal to	                          x <= y
+//  ==            	Equal to	                                x == y	
+//  !=	            Not equal	                                x != y	
+//  >	            Greater than	                              x > y	
+//  <	             Less than	                                x < y	
+//  >=	      Greater than or equal to	                      x >= y	
+//  <=	       Less than or equal to	                        x <= y
 
 
 
