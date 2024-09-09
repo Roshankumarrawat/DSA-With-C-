@@ -1,0 +1,29 @@
+// if-else statement in C++
+// It is an extension of the if statement. Here, there is an if block and an else block.
+//  When one wants to print output for both cases - true and false, use the if-else statement.
+
+
+// Program to check whether an integer is positive or negative
+// This program considers 0 as a positive number
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  int number;
+
+  cout << "Enter an integer: ";
+  cin >> number;
+
+  if (number >= 0) {
+    cout << "You entered a positive integer: " << number << endl;
+  }
+  else {
+    cout << "You entered a negative integer: " << number << endl;
+  }
+
+  cout << "This line is always printed.";
+
+  return 0;
+}
